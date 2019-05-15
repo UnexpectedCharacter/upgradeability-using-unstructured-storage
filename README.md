@@ -3,7 +3,7 @@
 ### What is this repository for? ###
 
 * This repository save a example of a implementation of a Unstructured Storage
-* 
+
 ### How do I get set up? ###
 1. Load the smart-contracts into the [Remix IDE](http://http://remix.ethereum.org/#optimize=false&version=soljson-v0.4.24+commit.e67f0147.js) 
 2. Deploy OwnedUpgradeabilityProxy.sol 
